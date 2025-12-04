@@ -49,24 +49,18 @@ Soy un **SysAdmin y Desarrollador Full Stack** con base en Venezuela. Mi pasión
 
 ---
 
-### 🏆 Logros y Racha
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffd2599&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 📊 Estadísticas de Desarrollador
 
 <div align="center">
-  <img src="https://github.com/jeffd2599/jeffd2599/metrics/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffd2599&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
 
-![Snake animation](https://github.com/jeffd2599/jeffd2599/raw/output/snake.svg)
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  
+  <br>
 
-### 📊 Lenguajes (Alternativa)
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeffd2599&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img src="https://github.com/jeffd2599/jeffd2599/raw/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
