@@ -49,10 +49,21 @@ Soy un **SysAdmin y Desarrollador Full Stack** con base en Venezuela. Mi pasión
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Logros y Racha
 
-![Jeferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffd2599&show_icons=true&theme=radical&hide_border=true&locale=es)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffd2599&layout=compact&theme=radical&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffd2599&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffd2599&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+### 📊 Lenguajes (Alternativa)
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeffd2599&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</div>
 
 ---
 
