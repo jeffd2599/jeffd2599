@@ -61,6 +61,8 @@ Soy un **SysAdmin y Desarrollador Full Stack** con base en Venezuela. Mi pasión
   <img src="https://github.com/jeffd2599/jeffd2599/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
+![Snake animation](https://github.com/jeffd2599/jeffd2599/raw/output/snake.svg)
+
 ### 📊 Lenguajes (Alternativa)
 
 <div align="center">
