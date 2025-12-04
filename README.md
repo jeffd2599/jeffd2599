@@ -58,7 +58,7 @@ Soy un **SysAdmin y Desarrollador Full Stack** con base en Venezuela. Mi pasión
 ### 📊 Estadísticas de Desarrollador
 
 <div align="center">
-  <img src="https://github.com/jeffd2599/jeffd2599/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/jeffd2599/jeffd2599/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ### 📊 Lenguajes (Alternativa)
