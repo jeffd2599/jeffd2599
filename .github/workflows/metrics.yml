@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Se actualiza cada 24 horas automáticamente
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  # Se actualiza cuando haces push a la rama main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu token de GitHub (se usa el automático, no necesitas crear nada)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Configuración básica
+          user: jeffd2599
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Caracas
+          
+          # Plugin: Lenguajes (Reemplaza al que te daba error)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          
+          # Plugin: Logros (Reemplaza a los trofeos que te daban error)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
