@@ -53,14 +53,6 @@ Soy un **SysAdmin y Desarrollador Full Stack** con base en Venezuela. Mi pasión
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffd2599&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-  
-  <br>
-
-  <img src="https://github.com/jeffd2599/jeffd2599/raw/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
